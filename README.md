@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeaneplugin
+- 👋 Hi, I’m JEAN MARCOS
 - 👀 I’m interested in development Mobile and Web.
 - 🌱 I’m currently learning Flutter.
 
